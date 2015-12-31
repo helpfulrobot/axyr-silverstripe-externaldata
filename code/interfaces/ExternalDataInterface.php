@@ -1,9 +1,9 @@
 <?php
 
-interface ExternalDataInterface {
-	
-	public function write();
-	
-	public function delete();	
-	
+interface ExternalDataInterface
+{
+    
+    public function write();
+    
+    public function delete();
 }
